@@ -1,1 +1,1 @@
-Basics of tf (tensorboard, linear reg, logistic reg, convnet)
+Basics of tf (tensorboard, linear regression, logistic regression, convnet)
