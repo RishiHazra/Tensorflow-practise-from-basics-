@@ -11,3 +11,5 @@ This repository contains three folders:
 
 * CNN model:
  This folder contains the code to implement CNN model for classification.
+
+[ref-1]:https://github.com/chiphuyen/stanford-tensorflow-tutorials.git
