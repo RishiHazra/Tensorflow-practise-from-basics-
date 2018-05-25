@@ -1,6 +1,6 @@
 # ML-tensorflow-practise
 Summer practise starting from basics of tensorflow.
- Reference: [ref-1]
+ Reference: [Chip Huyen]
 
 This repository contains three folders:
 
@@ -13,4 +13,4 @@ This repository contains three folders:
 * CNN model:
  This folder contains the code to implement CNN model for classification.
 
-[ref-1]:https://github.com/chiphuyen/stanford-tensorflow-tutorials.git
+[Chip Huyen]:https://github.com/chiphuyen/stanford-tensorflow-tutorials.git
