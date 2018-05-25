@@ -1,1 +1,1 @@
-CNN model implementation for classification of data
+CNN model implementation for classification of text data.
