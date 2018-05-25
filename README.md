@@ -1,5 +1,6 @@
 # ML-tensorflow-practise
-Summer practise starting from basics of tensorflow
+Summer practise starting from basics of tensorflow.
+ Reference: [ref-1]
 
 This repository contains three folders:
 
